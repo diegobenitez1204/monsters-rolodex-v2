@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsApp/static/css/main.6899778e.css",
+    "main.js": "/monsApp/static/js/main.5725564f.js",
+    "static/js/787.d301a0aa.chunk.js": "/monsApp/static/js/787.d301a0aa.chunk.js",
+    "index.html": "/monsApp/index.html",
+    "main.6899778e.css.map": "/monsApp/static/css/main.6899778e.css.map",
+    "main.5725564f.js.map": "/monsApp/static/js/main.5725564f.js.map",
+    "787.d301a0aa.chunk.js.map": "/monsApp/static/js/787.d301a0aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6899778e.css",
+    "static/js/main.5725564f.js"
+  ]
+}
